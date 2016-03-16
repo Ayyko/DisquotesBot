@@ -1,2 +1,2 @@
-# discordbashbot
-Bot for the DiscordBash project
+# Disquotesbot
+Bot for the Disquot.es project
